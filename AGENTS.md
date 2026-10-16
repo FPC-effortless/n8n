@@ -198,3 +198,7 @@ handling), apply these checks:
 - Always reference the Linear ticket in the PR description,
   use `https://linear.app/n8n/issue/[TICKET-ID]`
 - always link to the github issue if mentioned in the linear ticket.
+
+## Shared FPC universal skill
+
+For substantive engineering, product or research tasks, consult `.agents/skills/fpc-universal/SKILL.md` when relevant. This general skill is subordinate to every repository-specific, nested, safety, architecture, verification and release instruction above.
